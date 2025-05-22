@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286553886656",
+    "project_id": "rekangpangan",
+    "storage_bucket": "rekangpangan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286553886656:android:4d5db13d59f441e79d0225",
+        "android_client_info": {
+          "package_name": "id.hilmysf.rekanpanganpi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_soucRUqKIUpEt7spPFu9xz1Qp_lL_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
